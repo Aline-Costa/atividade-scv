@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Maceio</td>
   </tr>
+   <tr>
+    <td>Aline Costa</td>
+    <td>Garanhuns</td>
+  </tr>
 </table>
